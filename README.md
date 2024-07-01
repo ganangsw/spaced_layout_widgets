@@ -1,6 +1,13 @@
-# spaced_layout
+## Widget SpacedLayout untuk Flutter
 
-A new Flutter project.
+# Overview
+Widget SpacedLayout adalah widget kustom untuk Flutter yang dirancang untuk menyederhanakan penataan jarak antar widget dalam baris dan kolom. Widget ini memberikan cara yang mudah untuk menambahkan jarak yang konsisten antara widget-child, meningkatkan fleksibilitas dan keterbacaan tata letak aplikasi Flutter Anda.
+
+# Fitur
+ - Kontrol Arah: Pilih konfigurasi penataan horizontal atau vertical.
+ - Jarak yang Dapat Disesuaikan: Sesuaikan jarak antara widget sesuai dengan kebutuhan desain Anda.
+ - Opsi Penyelarasan: Kontrol cara penyelarasan widget di sepanjang sumbu utama dan lintang.
+ - Konfigurasi MainAxisSize: Tentukan seberapa besar ruang yang harus diisi layout di sepanjang sumbu utama.
 
 ## Getting Started
 
