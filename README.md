@@ -9,6 +9,9 @@ The SpacedLayout widget is a custom Flutter widget designed to simplify the spac
  - Alignment Options: Control how widgets are aligned along the main and cross axes.
  - MainAxisSize Configuration: Specify how much space the layout should occupy along the main axis.
 
+## Tutorial Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FOulEzcqCM4/0.jpg)](https://www.youtube.com/watch?v=FOulEzcqCM4)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
