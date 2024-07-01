@@ -14,13 +14,23 @@ The SpacedLayout widget is a custom Flutter widget designed to simplify the spac
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In your library add the following import:
 
-A few resources to get you started if this is your first Flutter project:
+```dart
+import 'package:your_package_name/spaced_layout.dart';
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Then you just have to add a `SpacedLayout` widget in your Flutter code:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```dart
+SpacedLayout(
+  direction: SpacingDirection.horizontal, // or SpacingDirection.vertical
+  spacing: 8.0,
+  children: [
+    // Add your widgets here
+    Container(width: 50, height: 50, color: Colors.blue),
+    Container(width: 50, height: 50, color: Colors.green),
+    Container(width: 50, height: 50, color: Colors.red),
+  ],
+);
+```
