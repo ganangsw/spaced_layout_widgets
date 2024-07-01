@@ -1,4 +1,4 @@
-# Widget SpacedLayout untuk Flutter
+# Widget SpacedLayout for Flutter
 
 ## Overview
 The SpacedLayout widget is a custom Flutter widget designed to simplify the spacing of widgets within rows and columns. It provides an easy way to add consistent spacing between child widgets, enhancing the layout flexibility and readability of your Flutter applications.
